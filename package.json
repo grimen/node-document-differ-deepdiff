@@ -39,15 +39,10 @@
   "dependencies": {
     "funargs": "latest",
     "sugar": "latest",
-    "node-document-differ": "latest",
+    "node-document-differ": "0.1.0-pre1",
     "deep-diff": "latest"
   },
   "devDependencies": {
-    "mocha": "latest",
-    "chai": "latest",
-    "cover": "latest",
-    "node-inspector": "latest",
-    "longjohn": "latest",
-    "colors": "latest"
+    "mocha": "latest"
   }
 }
