@@ -1,5 +1,5 @@
 
-var Differ = require('../../node-document-differ');
+var Differ = require('node-document-differ');
 
 module.exports = Differ.Spec('DeepDiff', {
   module: require('..'),
